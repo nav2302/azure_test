@@ -1,0 +1,9 @@
+{
+	"name": "navdatafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f37bb527-7334-4d29-9554-2489bb6e1817",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
